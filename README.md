@@ -12,6 +12,6 @@ A planilha foi criada como um material de apoio para auxiliar os docentes no pla
 Importante
 Esta planilha não substitui documentos oficiais e as pontuações calculadas são apenas estimativas, baseadas nas informações inseridas pelo usuário. O uso deste material tem caráter exclusivamente orientativo, não podendo ser utilizado como documento oficial para fins de avaliação ou progressão funcional.
 
-Créditos: O desenvolvimento desta planilha foi realizado por Adriana Dibo da Cruz, e revisado por Roberta Barcelos Pereira de Souza com o intuito de oferecer um suporte prático aos docentes da UFF na organização e planejamento de suas trajetórias acadêmicas.
+Créditos: O desenvolvimento desta planilha foi realizado pela profa. Adriana Dibo da Cruz, e revisado pela profa. Roberta Barcelos Pereira de Souza com o intuito de oferecer um suporte prático aos docentes da UFF na organização e planejamento de suas trajetórias acadêmicas.
 
 Nota: É fundamental consultar a Resolução CEP nº 543/2014 e demais regulamentos complementares da UFF para garantir a conformidade com os critérios exigidos durante o processo de promoção funcional.
